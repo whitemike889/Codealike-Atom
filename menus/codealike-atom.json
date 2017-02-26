@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle codealike-atom",
+        "command": "codealike-atom:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Codealike",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "codealike-atom:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
