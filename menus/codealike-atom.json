@@ -9,16 +9,11 @@
   },
   "menu": [
     {
-      "label": "Packages",
+      "label": "Codealike",
       "submenu": [
         {
-          "label": "Codealike",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "codealike-atom:toggle"
-            }
-          ]
+        "label": "Settings",
+        "command": "codealike-atom:settings"
         }
       ]
     }
