@@ -6,16 +6,5 @@
         "command": "codealike-atom:toggle"
       }
     ]
-  },
-  "menu": [
-    {
-      "label": "Codealike",
-      "submenu": [
-        {
-        "label": "Settings",
-        "command": "codealike-atom:settings"
-        }
-      ]
-    }
-  ]
+  }
 }
