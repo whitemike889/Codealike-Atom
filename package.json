@@ -10,7 +10,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "@codealike/codealike-core": "0.0.11",
+    "@codealike/codealike-core": "0.0.12",
     "smalltalk": "^2.4.1"
   }
 }
