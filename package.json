@@ -1,15 +1,16 @@
 {
   "name": "codealike-atom",
   "main": "./lib/codealike-atom",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Automatically track everything you do when you code. See reports and metrics in real-time and never forget again what you did on the code.",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/atom/codealike-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "@codealike/codealike-core": "0.0.11",
+    "smalltalk": "^2.4.1"
   }
 }

@@ -1,10 +1,13 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle codealike-atom",
-        "command": "codealike-atom:toggle"
-      }
-    ]
-  }
+  "menu": [
+    {
+      "label": "Codealike",
+      "submenu": [
+        {
+          "label": "Connect/Disconnect",
+          "command": "codealike:connect"
+        }
+      ]
+    }
+  ]
 }
