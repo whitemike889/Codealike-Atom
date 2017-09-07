@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "Automatically track everything you do when you code. See reports and metrics in real-time and never forget again what you did on the code.",
   "keywords": [],
-  "repository": "https://github.com/atom/codealike-atom",
+  "repository": "https://github.com/codealike/codealike-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
