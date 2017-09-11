@@ -1,7 +1,7 @@
 {
   "name": "codealike-atom",
   "main": "./lib/codealike-atom",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Automatically track everything you do when you code. See reports and metrics in real-time and never forget again what you did on the code.",
   "keywords": [],
   "repository": "https://github.com/codealike/codealike-atom",
@@ -10,7 +10,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "@codealike/codealike-core": "0.0.12",
+    "@codealike/codealike-core": "0.0.16",
     "smalltalk": "^2.4.1"
   }
 }
