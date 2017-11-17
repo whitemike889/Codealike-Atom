@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@codealike/codealike-core": "0.0.27",
-    "smalltalk": "^2.4.1"
+    "smalltalk": "^2.5.1"
   },
   "consumedServices": {
     "status-bar": {
